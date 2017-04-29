@@ -1,6 +1,2 @@
-mingming
-<<<<<<< HEAD
-create one new line
-=======
-creat one new line faddasf
->>>>>>> feature1
+mingmingdafad
+fadafd
