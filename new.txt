@@ -2,5 +2,5 @@ mingming
 <<<<<<< HEAD
 create one new line
 =======
-creat one new line
+creat one new line faddasf
 >>>>>>> feature1
