@@ -1,2 +1,6 @@
 mingming
+<<<<<<< HEAD
 create one new line
+=======
+creat one new line
+>>>>>>> feature1
