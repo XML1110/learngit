@@ -1,2 +1,6 @@
 拜拜2017/12/1
-master branch
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
